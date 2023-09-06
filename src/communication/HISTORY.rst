@@ -3,6 +3,10 @@
 Release History
 ===============
 
+1.7.2b2
+++++++
+* Updated description for sending emails to multiple recipients
+
 1.7.2b1
 ++++++
 * Update Email to the latest 1.0.0 version
